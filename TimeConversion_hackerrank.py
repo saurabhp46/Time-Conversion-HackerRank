@@ -1,5 +1,4 @@
 def timeConversion(s):
-    # Write your code here
     dict1={}
     j=1
     for i in range(13,24):
